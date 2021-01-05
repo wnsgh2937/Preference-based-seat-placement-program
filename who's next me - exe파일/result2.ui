@@ -1,0 +1,2360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1588</width>
+    <height>723</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="horizontalLayoutWidget_3">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>270</y>
+      <width>1121</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_31">
+     <item>
+      <widget class="QLabel" name="label_451">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_452">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_453">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_454">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_455">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_456">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_457">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_458">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_459">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_460">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_461">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_462">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_463">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_464">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_465">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>10</y>
+      <width>1200</width>
+      <height>600</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>result_background.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_4">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>310</y>
+      <width>1121</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_32">
+     <item>
+      <widget class="QLabel" name="label_466">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_467">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_468">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_469">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_470">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_471">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_472">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_473">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_474">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_475">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_476">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_477">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_478">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_479">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_480">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QPushButton" name="return_main">
+    <property name="geometry">
+     <rect>
+      <x>1080</x>
+      <y>120</y>
+      <width>181</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+height: 100px;
+line-height: 100px;
+color: #FFFFFF;
+font-family: 아임크리수진;
+width: 150px;
+font-size: 20px;
+font-weight: 100;
+background-color: #ABD643;
+text-shadow: 1px 1px 20px #000000;
+text-decoration: none;
+cursor: pointer;
+text-align: center;</string>
+    </property>
+    <property name="text">
+     <string>홈화면으로 돌아가기</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_10">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>550</y>
+      <width>1121</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_33">
+     <item>
+      <widget class="QLabel" name="label_481">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_482">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_483">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_484">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_485">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_486">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_487">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_488">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_489">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_490">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_491">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_492">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_493">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_494">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_495">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_5">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>350</y>
+      <width>1121</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_34">
+     <item>
+      <widget class="QLabel" name="label_496">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_497">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_498">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_499">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_500">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_501">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_502">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_503">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_504">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_505">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_506">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_507">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_508">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_509">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_510">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_8">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>470</y>
+      <width>1121</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_35">
+     <item>
+      <widget class="QLabel" name="label_511">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_512">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_513">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_514">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_515">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_516">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_517">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_518">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_519">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_520">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_521">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_522">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_523">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_524">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_525">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QPushButton" name="go_batch">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>120</y>
+      <width>101</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+height: 100px;
+line-height: 100px;
+color: #FFFFFF;
+font-family: 아임크리수진;
+width: 150px;
+font-size: 20px;
+font-weight: 100;
+background-color: #ABD643;
+text-shadow: 1px 1px 20px #000000;
+text-decoration: none;
+cursor: pointer;
+text-align: center;</string>
+    </property>
+    <property name="text">
+     <string>이전</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_6">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>390</y>
+      <width>1121</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_36">
+     <item>
+      <widget class="QLabel" name="label_526">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_527">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_528">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_529">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_530">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_531">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_532">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_533">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_534">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_535">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_536">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_537">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_538">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_539">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_540">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>189</y>
+      <width>1121</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_37">
+     <item>
+      <widget class="QLabel" name="label_541">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF;
+text-align: center</string>
+       </property>
+       <property name="text">
+        <string>박한이</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_542">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_543">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_544">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_545">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_546">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_547">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_548">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_549">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_550">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF
+</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_551">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_552">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_553">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_554">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_555">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QPushButton" name="switch_name">
+    <property name="geometry">
+     <rect>
+      <x>560</x>
+      <y>120</y>
+      <width>191</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+height: 100px;
+line-height: 100px;
+color: #FFFFFF;
+font-family: 아임크리수진;
+width: 150px;
+font-size: 20px;
+font-weight: 100;
+background-color: #ABD643;
+text-shadow: 1px 1px 20px #000000;
+text-decoration: none;
+cursor: pointer;
+text-align: center;</string>
+    </property>
+    <property name="text">
+     <string>학생 이름으로 보기</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_2">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>230</y>
+      <width>1121</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_38">
+     <item>
+      <widget class="QLabel" name="label_556">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_557">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_558">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_559">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_560">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_561">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_562">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_563">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_564">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_565">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_566">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_567">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_568">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_569">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_570">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_7">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>430</y>
+      <width>1121</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_39">
+     <item>
+      <widget class="QLabel" name="label_571">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_572">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_573">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_574">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_575">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_576">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_577">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_578">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_579">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_580">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_581">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_582">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_583">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_584">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_585">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_9">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>510</y>
+      <width>1121</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_40">
+     <item>
+      <widget class="QLabel" name="label_586">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_587">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_588">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_589">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_590">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_591">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_592">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_593">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_594">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_595">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_596">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_597">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_598">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_599">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_600">
+       <property name="styleSheet">
+        <string notr="true">color: blue;
+background-color: #87CEFA;
+border-style: dashed;
+border-width: 3px;             
+border-color: #1E90FF</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1588</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

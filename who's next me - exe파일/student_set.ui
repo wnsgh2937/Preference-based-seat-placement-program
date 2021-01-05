@@ -1,0 +1,3174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1247</width>
+    <height>675</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>학생배치 프로그램</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>icon.png</normaloff>icon.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="horizontalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>200</y>
+      <width>1091</width>
+      <height>45</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>아임크리수진</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QLineEdit" name="text_0">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_1">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_2">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_3">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_4">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_5">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_6">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_7">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_8">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_9">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_10">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_11">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_12">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_13">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_14">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_2">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>230</y>
+      <width>1091</width>
+      <height>45</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>아임크리수진</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_11">
+     <item>
+      <widget class="QLineEdit" name="text_15">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_16">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_17">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_18">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_19">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_20">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_21">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_22">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_23">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_24">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_25">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_26">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_27">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_28">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_29">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_3">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>260</y>
+      <width>1091</width>
+      <height>45</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>아임크리수진</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_12">
+     <item>
+      <widget class="QLineEdit" name="text_30">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_31">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_32">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_33">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_34">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_35">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_36">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_37">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_38">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_39">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_40">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_41">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_42">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_43">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_44">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_4">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>290</y>
+      <width>1091</width>
+      <height>45</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>아임크리수진</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_13">
+     <item>
+      <widget class="QLineEdit" name="text_45">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_46">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_47">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_48">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_49">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_50">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_51">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_52">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_53">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_54">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_55">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_56">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_57">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_58">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_59">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_5">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>320</y>
+      <width>1091</width>
+      <height>45</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>아임크리수진</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_14">
+     <item>
+      <widget class="QLineEdit" name="text_60">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_61">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_62">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_63">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_64">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_65">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_66">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_67">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_68">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_69">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_70">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_71">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_72">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_73">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_74">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_6">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>350</y>
+      <width>1091</width>
+      <height>45</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>아임크리수진</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_15">
+     <item>
+      <widget class="QLineEdit" name="text_75">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_76">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_77">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_78">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_79">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_80">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_81">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_82">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_83">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_84">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_85">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_86">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_87">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_88">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_89">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_7">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>380</y>
+      <width>1091</width>
+      <height>45</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>아임크리수진</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_16">
+     <item>
+      <widget class="QLineEdit" name="text_90">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_91">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_92">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_93">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_94">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_95">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_96">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_97">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_98">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_99">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_100">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_101">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_102">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_103">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_104">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_8">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>410</y>
+      <width>1091</width>
+      <height>45</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>아임크리수진</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_17">
+     <item>
+      <widget class="QLineEdit" name="text_105">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_106">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_107">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_108">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_109">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_110">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_111">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_112">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_113">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_114">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_115">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_116">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_117">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_118">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_119">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_9">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>440</y>
+      <width>1091</width>
+      <height>45</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>아임크리수진</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_18">
+     <item>
+      <widget class="QLineEdit" name="text_120">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_121">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_122">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_123">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_124">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_125">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_126">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_127">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_128">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_129">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_130">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_131">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_132">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_133">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_134">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_10">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>473</y>
+      <width>1091</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>아임크리수진</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_19">
+     <item>
+      <widget class="QLineEdit" name="text_135">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_136">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_137">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_138">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_139">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_140">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_141">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_142">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_143">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_144">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_145">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_146">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_147">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_148">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="text_149">
+       <property name="font">
+        <font>
+         <family>아임크리수진</family>
+         <pointsize>14</pointsize>
+        </font>
+       </property>
+       <property name="inputMask">
+        <string>00</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>0</y>
+      <width>1221</width>
+      <height>611</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>student_set_background.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="go_main">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>120</y>
+      <width>101</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+height: 100px;
+line-height: 100px;
+color: #FFFFFF;
+font-family: 아임크리수진;
+width: 150px;
+font-size: 20px;
+font-weight: 100;
+background-color: #ABD643;
+text-shadow: 1px 1px 20px #000000;
+text-decoration: none;
+cursor: pointer;
+text-align: center;</string>
+    </property>
+    <property name="text">
+     <string>이전</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="start_set">
+    <property name="geometry">
+     <rect>
+      <x>1050</x>
+      <y>120</y>
+      <width>131</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+height: 100px;
+line-height: 100px;
+color: #FFFFFF;
+font-family: 아임크리수진;
+width: 150px;
+font-size: 20px;
+font-weight: 100;
+background-color: #ABD643;
+text-shadow: 1px 1px 20px #000000;
+text-decoration: none;
+cursor: pointer;
+text-align: center;</string>
+    </property>
+    <property name="text">
+     <string>자리배치 시작</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="board">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>550</y>
+      <width>1001</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: green;
+font-family: 아임크리수진;
+text-align: center</string>
+    </property>
+    <property name="text">
+     <string>칠판</string>
+    </property>
+   </widget>
+   <zorder>label</zorder>
+   <zorder>horizontalLayoutWidget</zorder>
+   <zorder>horizontalLayoutWidget_2</zorder>
+   <zorder>horizontalLayoutWidget_3</zorder>
+   <zorder>horizontalLayoutWidget_4</zorder>
+   <zorder>horizontalLayoutWidget_5</zorder>
+   <zorder>horizontalLayoutWidget_6</zorder>
+   <zorder>horizontalLayoutWidget_7</zorder>
+   <zorder>horizontalLayoutWidget_8</zorder>
+   <zorder>horizontalLayoutWidget_9</zorder>
+   <zorder>horizontalLayoutWidget_10</zorder>
+   <zorder>go_main</zorder>
+   <zorder>start_set</zorder>
+   <zorder>board</zorder>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1247</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
